@@ -75,5 +75,52 @@ public class CalculatorSpec {
     @Test
     public void test$squareRoot() {
         /**
+         * This method should provide the square root of a value (double).
+         */
+        double expectedValue = 2;
+        double actualValue = calculator.squareRoot(4);
+        assertEquals("This should evaluate to 2", expectedValue, actualValue, delta);
+    }
+
+    @Test
+    public void test$variableExponentiation() {
+        /**
+         * This method should evaluate value1 (double) to the power of value2 (double).
+         */
+        double expectedValue = 1000000;
+        double actualValue = calculator.variableExponentiation(100, 3);
+        assertEquals("This should evaluate to 1000", expectedValue, actualValue, delta);
+    }
+
+    @Test
+    public void test$invertPositiveAndNegative() {
+        /**
+         * This method will invert the sign of the number
+         */
+        double expectedValue = 100;
+        double actualValue = calculator.invertPositiveAndNegative(-100);
+        assertEquals("This should evaluate to 100", expectedValue, actualValue, delta);
+    }
+
+    @Test
+    public void test$sin() {
+        /**
+         * This method will evaluate to an answer that is equal to the ratio
+         * of the side opposite a given angle (in a right triangle) to the hypotenuse.
+         */
+        double expectedValue = 0.8939966636005579;
+        double actualVaue = calculator.sin(90);
+        assertEquals("This should evaluate to 0.8939966636005579", expectedValue, actualVaue, delta);
+    }
+
+    @Test
+    public void test$cosin() {
+        /**
+         * This method will evaluate to an answer that is equal to the ratio
+         * of the side adjacent to an acute angle (in a right-angled triangle) to the hypotenuse.
+         */
+        double expectedValue = -0.4480736161291702;
+        double actualValue = calculator.cosin(90);
+        assertEquals("This should evaluate to 0.4480736161291702", expectedValue, actualValue, delta);
     }
 }
