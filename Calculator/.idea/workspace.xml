@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="498e087b-c69e-4a2c-aa1d-357ada1fc161" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/io/michaelcane/Calculator.class" afterPath="$PROJECT_DIR$/target/classes/io/michaelcane/Calculator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/io/michaelcane/CalculatorSpec.class" afterPath="$PROJECT_DIR$/target/test-classes/io/michaelcane/CalculatorSpec.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/io/michaelcane/Calculator.java" afterPath="$PROJECT_DIR$/src/main/java/io/michaelcane/Calculator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/io/michaelcane/CalculatorSpec.java" afterPath="$PROJECT_DIR$/src/test/java/io/michaelcane/CalculatorSpec.java" />
     </list>
@@ -74,7 +78,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,8 +94,8 @@
       <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/io/michaelcane/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+            <state relative-caret-position="593">
+              <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
               <folding>
                 <element signature="e#106#107#0" expanded="true" />
                 <element signature="e#144#145#0" expanded="true" />
@@ -101,10 +113,26 @@
                 <element signature="e#723#724#0" expanded="true" />
                 <element signature="e#785#786#0" expanded="true" />
                 <element signature="e#820#821#0" expanded="true" />
-                <element signature="e#860#861#0" expanded="true" />
-                <element signature="e#899#900#0" expanded="true" />
-                <element signature="e#941#942#0" expanded="true" />
-                <element signature="e#980#981#0" expanded="true" />
+                <element signature="e#861#862#0" expanded="true" />
+                <element signature="e#900#901#0" expanded="true" />
+                <element signature="e#943#944#0" expanded="true" />
+                <element signature="e#982#983#0" expanded="true" />
+                <element signature="e#1026#1027#0" expanded="true" />
+                <element signature="e#1065#1066#0" expanded="true" />
+                <element signature="e#1113#1114#0" expanded="true" />
+                <element signature="e#1153#1154#0" expanded="true" />
+                <element signature="e#1203#1204#0" expanded="true" />
+                <element signature="e#1243#1244#0" expanded="true" />
+                <element signature="e#1294#1295#0" expanded="true" />
+                <element signature="e#1334#1335#0" expanded="true" />
+                <element signature="e#1380#1381#0" expanded="true" />
+                <element signature="e#1421#1422#0" expanded="true" />
+                <element signature="e#1474#1475#0" expanded="true" />
+                <element signature="e#1513#1514#0" expanded="true" />
+                <element signature="e#1724#1725#0" expanded="true" />
+                <element signature="e#1783#1784#0" expanded="true" />
+                <element signature="e#1836#1837#0" expanded="true" />
+                <element signature="e#1891#1892#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -113,8 +141,8 @@
       <file leaf-file-name="CalculatorSpec.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/io/michaelcane/CalculatorSpec.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="683">
-              <caret line="116" column="21" selection-start-line="116" selection-start-column="21" selection-end-line="116" selection-end-column="21" />
+            <state relative-caret-position="488">
+              <caret line="208" column="25" selection-start-line="208" selection-start-column="25" selection-end-line="208" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -142,10 +170,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/io/michaelcane/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/michaelcane/Display.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/michaelcane/User.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/io/michaelcane/Calculator.java" />
         <option value="$PROJECT_DIR$/src/test/java/io/michaelcane/CalculatorSpec.java" />
       </list>
@@ -169,7 +197,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="y" value="24" />
     <option name="width" value="1920" />
     <option name="height" value="990" />
   </component>
@@ -308,7 +336,33 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Calculator/src/main/java/io/michaelcane/Calculator.java" />
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorSpec.test$cosin">
+  <component name="RunManager" selected="JUnit.CalculatorSpec.test$inverseLogarithm">
+    <configuration default="false" name="CalculatorSpec.test$inverseCosin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="io.michaelcane.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Calculator" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="io.michaelcane" />
+      <option name="MAIN_CLASS_NAME" value="io.michaelcane.CalculatorSpec" />
+      <option name="METHOD_NAME" value="test$inverseCosin" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
     <configuration default="false" name="CalculatorSpec" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -335,7 +389,7 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="CalculatorSpec.test$sin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="CalculatorSpec.test$factorial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="io.michaelcane.*" />
@@ -347,7 +401,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="io.michaelcane" />
       <option name="MAIN_CLASS_NAME" value="io.michaelcane.CalculatorSpec" />
-      <option name="METHOD_NAME" value="test$sin" />
+      <option name="METHOD_NAME" value="test$factorial" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -361,7 +415,7 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="CalculatorSpec.test$cosin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="CalculatorSpec.test$inverseLog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="io.michaelcane.*" />
@@ -373,7 +427,33 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="io.michaelcane" />
       <option name="MAIN_CLASS_NAME" value="io.michaelcane.CalculatorSpec" />
-      <option name="METHOD_NAME" value="test$cosin" />
+      <option name="METHOD_NAME" value="test$inverseLog" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="CalculatorSpec.test$inverseLogarithm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="io.michaelcane.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Calculator" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="io.michaelcane" />
+      <option name="MAIN_CLASS_NAME" value="io.michaelcane.CalculatorSpec" />
+      <option name="METHOD_NAME" value="test$inverseLogarithm" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -781,16 +861,20 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorSpec" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$sin" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$cosin" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$inverseCosin" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorSpec" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$factorial" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$inverseLog" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$inverseLogarithm" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$cosin" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$sin" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorSpec" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$inverseLogarithm" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$inverseLog" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$factorial" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatorSpec" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$inverseCosin" />
       </list>
     </recent_temporary>
   </component>
@@ -804,47 +888,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1462023050898</updated>
-      <workItem from="1462023054200" duration="8159000" />
+      <workItem from="1462023054200" duration="16148000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculatorSpec - 2016.04.30 at 12h 20m 34s.xml">
+    <history-entry file="CalculatorSpec - 2016.04.30 at 14h 17m 59s.xml">
       <configuration name="CalculatorSpec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorSpec - 2016.04.30 at 12h 26m 01s.xml">
-      <configuration name="CalculatorSpec" configurationId="JUnit" />
+    <history-entry file="CalculatorSpec_test$factorial - 2016.04.30 at 14h 26m 13s.xml">
+      <configuration name="CalculatorSpec.test$factorial" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorSpec - 2016.04.30 at 12h 26m 37s.xml">
-      <configuration name="CalculatorSpec" configurationId="JUnit" />
+    <history-entry file="CalculatorSpec_test$factorial - 2016.04.30 at 14h 55m 29s.xml">
+      <configuration name="CalculatorSpec.test$factorial" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorSpec - 2016.04.30 at 12h 31m 58s.xml">
-      <configuration name="CalculatorSpec" configurationId="JUnit" />
+    <history-entry file="CalculatorSpec_test$inverseCosin - 2016.04.30 at 13h 53m 25s.xml">
+      <configuration name="CalculatorSpec.test$inverseCosin" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorSpec_test$cosin - 2016.04.30 at 12h 36m 04s.xml">
-      <configuration name="CalculatorSpec.test$cosin" configurationId="JUnit" />
+    <history-entry file="CalculatorSpec_test$inverseLog - 2016.04.30 at 15h 12m 29s.xml">
+      <configuration name="CalculatorSpec.test$inverseLog" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorSpec_test$cosin - 2016.04.30 at 12h 36m 54s.xml">
-      <configuration name="CalculatorSpec.test$cosin" configurationId="JUnit" />
+    <history-entry file="CalculatorSpec_test$inverseLog - 2016.04.30 at 15h 12m 54s.xml">
+      <configuration name="CalculatorSpec.test$inverseLog" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorSpec_test$cosin - 2016.04.30 at 12h 37m 12s.xml">
-      <configuration name="CalculatorSpec.test$cosin" configurationId="JUnit" />
+    <history-entry file="CalculatorSpec_test$inverseLogarithm - 2016.04.30 at 15h 22m 54s.xml">
+      <configuration name="CalculatorSpec.test$inverseLogarithm" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorSpec_test$sin - 2016.04.30 at 12h 32m 09s.xml">
-      <configuration name="CalculatorSpec.test$sin" configurationId="JUnit" />
+    <history-entry file="CalculatorSpec_test$inverseLogarithm - 2016.04.30 at 15h 26m 35s.xml">
+      <configuration name="CalculatorSpec.test$inverseLogarithm" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorSpec_test$sin - 2016.04.30 at 12h 32m 32s.xml">
-      <configuration name="CalculatorSpec.test$sin" configurationId="JUnit" />
+    <history-entry file="CalculatorSpec_test$inverseLogarithm - 2016.04.30 at 15h 26m 49s.xml">
+      <configuration name="CalculatorSpec.test$inverseLogarithm" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorSpec_test$sin - 2016.04.30 at 12h 32m 56s.xml">
-      <configuration name="CalculatorSpec.test$sin" configurationId="JUnit" />
+    <history-entry file="CalculatorSpec_test$naturalLogarithm - 2016.04.30 at 13h 48m 38s.xml">
+      <configuration name="CalculatorSpec.test$naturalLogarithm" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8159000" />
+    <option name="totallyTimeSpent" value="16148000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="990" extended-state="1" />
+    <frame x="0" y="24" width="1920" height="990" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -865,7 +949,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995657" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -886,14 +970,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../Calculator/calculator.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -972,14 +1048,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../Calculator/src/main/java/io/michaelcane/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../Calculator/src/test/java/io/michaelcane/CalculatorSpec.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -990,10 +1058,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Calculator/src/main/java/io/michaelcane/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/michaelcane/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+        <state relative-caret-position="593">
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
           <folding>
             <element signature="e#106#107#0" expanded="true" />
             <element signature="e#144#145#0" expanded="true" />
@@ -1011,18 +1103,34 @@
             <element signature="e#723#724#0" expanded="true" />
             <element signature="e#785#786#0" expanded="true" />
             <element signature="e#820#821#0" expanded="true" />
-            <element signature="e#860#861#0" expanded="true" />
-            <element signature="e#899#900#0" expanded="true" />
-            <element signature="e#941#942#0" expanded="true" />
-            <element signature="e#980#981#0" expanded="true" />
+            <element signature="e#861#862#0" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
+            <element signature="e#1026#1027#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+            <element signature="e#1113#1114#0" expanded="true" />
+            <element signature="e#1153#1154#0" expanded="true" />
+            <element signature="e#1203#1204#0" expanded="true" />
+            <element signature="e#1243#1244#0" expanded="true" />
+            <element signature="e#1294#1295#0" expanded="true" />
+            <element signature="e#1334#1335#0" expanded="true" />
+            <element signature="e#1380#1381#0" expanded="true" />
+            <element signature="e#1421#1422#0" expanded="true" />
+            <element signature="e#1474#1475#0" expanded="true" />
+            <element signature="e#1513#1514#0" expanded="true" />
+            <element signature="e#1724#1725#0" expanded="true" />
+            <element signature="e#1783#1784#0" expanded="true" />
+            <element signature="e#1836#1837#0" expanded="true" />
+            <element signature="e#1891#1892#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/io/michaelcane/CalculatorSpec.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="116" column="21" selection-start-line="116" selection-start-column="21" selection-end-line="116" selection-end-column="21" />
+        <state relative-caret-position="488">
+          <caret line="208" column="25" selection-start-line="208" selection-start-column="25" selection-end-line="208" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
