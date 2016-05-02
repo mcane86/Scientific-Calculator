@@ -7,7 +7,9 @@ import static java.lang.Double.parseDouble;
 public class User {
 
     Commands commands = new Commands();
-
+    /**
+     * This is the Memory that can be Set, Recalled, and Cleared.
+     */
     double memory = 0;
 
     public double getMemory() {
@@ -22,6 +24,9 @@ public class User {
         this.memory = 0;
     }
 
+    /**
+     * The input taken from the user.
+     */
     private String takeInput = "";
 
     Scanner sc = new Scanner(System.in);
@@ -35,13 +40,15 @@ public class User {
 
     double isNumber = 0;
 
-
     public void parser(String input) {
+        /**
+         * Parser that tells if user input is a String or a line that
+         * could be parsed into a double.
+         */
         try {
             isNumber = parseDouble(getInput());
         } catch (NumberFormatException e) {
-
+            commands.doTheThing();
         }
     }
-
 }

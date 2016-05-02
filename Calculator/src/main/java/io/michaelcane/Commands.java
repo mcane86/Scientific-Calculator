@@ -8,11 +8,15 @@ public class Commands {
 
     Command command;
 
-    public void GiveCommand(Command command) {
+    public void giveCommand(Command command) {
         this.command = command;
     }
 
     public enum Command {
+        /**
+         * An enum that, if I can get it to work, should search for a command and activate it.
+         * Each calculator function, as well each function that alters the Display and the Memory.
+         */
         CLEARDISPLAY,
         CLEARERROR,
         CLEARMEMORY,
@@ -42,8 +46,12 @@ public class Commands {
 
     public void doTheThing() {
         switch (command) {
+            /**
+             * The switch statement for the above enum.
+             */
             case COSINE:
                 calculator.cosine(user.isNumber);
+                System.out.println("It's working!");
                 break;
             case DIVIDE:
                 calculator.divide(display.getState(), user.isNumber);
