@@ -200,20 +200,22 @@ public class CalculatorSpec {
         /**
          * This will give the inverse for natual logarithms
          */
-        double expectedValue = 1.9999999999999998;
+        double expectedValue = 7.3890560989306495;
         double actualValue = calculator.inverseNaturalLog(2);
-        assertEquals("This should evaluate to ", expectedValue, actualValue, delta);
+        assertEquals("This should evaluate to 7.3890560989306495", expectedValue, actualValue, delta);
     }
 
     @Test
     public void test$inverseLogarithm() {
         /**
-         * This will give the inverse for logarithms
+         * This will give the inverse for logarithms.
          */
-        double expectedValue = 157.4796994747437;
+        double expectedValue = 1.0E9;
         double actualValue = calculator.inverseLogarithm(9);
         assertEquals("This should evaluate to 1000000000", expectedValue, actualValue, delta);
     }
+
+
 
 
 

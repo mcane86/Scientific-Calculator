@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="498e087b-c69e-4a2c-aa1d-357ada1fc161" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/io/michaelcane/Commands.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/io/michaelcane/App.class" afterPath="$PROJECT_DIR$/target/classes/io/michaelcane/App.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/io/michaelcane/Calculator.class" afterPath="$PROJECT_DIR$/target/classes/io/michaelcane/Calculator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/io/michaelcane/User.class" afterPath="$PROJECT_DIR$/target/classes/io/michaelcane/User.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/io/michaelcane/CalculatorSpec.class" afterPath="$PROJECT_DIR$/target/test-classes/io/michaelcane/CalculatorSpec.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/io/michaelcane/App.java" afterPath="$PROJECT_DIR$/src/main/java/io/michaelcane/App.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/io/michaelcane/Calculator.java" afterPath="$PROJECT_DIR$/src/main/java/io/michaelcane/Calculator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/io/michaelcane/Display.java" afterPath="$PROJECT_DIR$/src/main/java/io/michaelcane/Display.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/io/michaelcane/User.java" afterPath="$PROJECT_DIR$/src/main/java/io/michaelcane/User.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/io/michaelcane/CalculatorSpec.java" afterPath="$PROJECT_DIR$/src/test/java/io/michaelcane/CalculatorSpec.java" />
     </list>
     <ignored path="Calculator.iws" />
@@ -30,63 +36,13 @@
     <favorites_list name="Calculator" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../GuessingGame/src/main/java/io/michaelcane/Game.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/michaelcane/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding>
-                <element signature="e#312#313#0" expanded="false" />
-                <element signature="e#342#343#0" expanded="false" />
-                <element signature="e#374#375#0" expanded="false" />
-                <element signature="e#405#406#0" expanded="false" />
-                <element signature="e#435#436#0" expanded="false" />
-                <element signature="e#464#465#0" expanded="false" />
-                <element signature="e#505#506#0" expanded="false" />
-                <element signature="e#541#542#0" expanded="false" />
-                <element signature="e#586#587#0" expanded="false" />
-                <element signature="e#626#627#0" expanded="false" />
-                <element signature="e#669#670#0" expanded="false" />
-                <element signature="e#707#708#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../GuessingGame/src/main/java/io/michaelcane/Player.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#101#102#0" expanded="false" />
-                <element signature="e#129#130#0" expanded="false" />
-                <element signature="e#168#169#0" expanded="false" />
-                <element signature="e#202#203#0" expanded="false" />
-                <element signature="e#235#236#0" expanded="false" />
-                <element signature="e#263#264#0" expanded="false" />
-                <element signature="e#306#307#0" expanded="false" />
-                <element signature="e#340#341#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../Calculator/src/main/java/io/michaelcane/Calculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding>
-                <element signature="e#95#96#0" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="165">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -94,57 +50,77 @@
       <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/io/michaelcane/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+            <state relative-caret-position="358">
+              <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
               <folding>
-                <element signature="e#106#107#0" expanded="true" />
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
-                <element signature="e#602#603#0" expanded="true" />
-                <element signature="e#676#677#0" expanded="true" />
-                <element signature="e#723#724#0" expanded="true" />
-                <element signature="e#785#786#0" expanded="true" />
-                <element signature="e#820#821#0" expanded="true" />
-                <element signature="e#861#862#0" expanded="true" />
-                <element signature="e#900#901#0" expanded="true" />
-                <element signature="e#943#944#0" expanded="true" />
-                <element signature="e#982#983#0" expanded="true" />
-                <element signature="e#1026#1027#0" expanded="true" />
-                <element signature="e#1065#1066#0" expanded="true" />
-                <element signature="e#1113#1114#0" expanded="true" />
-                <element signature="e#1153#1154#0" expanded="true" />
-                <element signature="e#1203#1204#0" expanded="true" />
-                <element signature="e#1243#1244#0" expanded="true" />
-                <element signature="e#1294#1295#0" expanded="true" />
-                <element signature="e#1334#1335#0" expanded="true" />
-                <element signature="e#1380#1381#0" expanded="true" />
-                <element signature="e#1421#1422#0" expanded="true" />
-                <element signature="e#1474#1475#0" expanded="true" />
-                <element signature="e#1513#1514#0" expanded="true" />
-                <element signature="e#1724#1725#0" expanded="true" />
-                <element signature="e#1783#1784#0" expanded="true" />
-                <element signature="e#1836#1837#0" expanded="true" />
-                <element signature="e#1891#1892#0" expanded="true" />
+                <element signature="method#sum#0;class#Calculator#0" expanded="false" />
+                <element signature="method#subtract#0;class#Calculator#0" expanded="false" />
+                <element signature="method#divide#0;class#Calculator#0" expanded="false" />
+                <element signature="method#multiply#0;class#Calculator#0" expanded="false" />
+                <element signature="method#square#0;class#Calculator#0" expanded="false" />
+                <element signature="method#squareRoot#0;class#Calculator#0" expanded="false" />
+                <element signature="method#variableExponentiation#0;class#Calculator#0" expanded="false" />
+                <element signature="method#invertPositiveAndNegative#0;class#Calculator#0" expanded="false" />
+                <element signature="method#sine#0;class#Calculator#0" expanded="false" />
+                <element signature="method#cosine#0;class#Calculator#0" expanded="false" />
+                <element signature="method#tangent#0;class#Calculator#0" expanded="false" />
+                <element signature="method#inverseSine#0;class#Calculator#0" expanded="false" />
+                <element signature="method#inverseCosine#0;class#Calculator#0" expanded="false" />
+                <element signature="method#inverseTangent#0;class#Calculator#0" expanded="false" />
+                <element signature="method#logarithm#0;class#Calculator#0" expanded="false" />
+                <element signature="method#naturalLogarithm#0;class#Calculator#0" expanded="false" />
+                <element signature="method#factorial#0;class#Calculator#0" expanded="false" />
+                <element signature="method#inverseNaturalLog#0;class#Calculator#0" expanded="false" />
+                <element signature="method#inverseLogarithm#0;class#Calculator#0" expanded="false" />
+                <element signature="method#displayError#0;class#Calculator#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculatorSpec.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/io/michaelcane/CalculatorSpec.java">
+      <file leaf-file-name="Display.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/michaelcane/Display.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="208" column="25" selection-start-line="208" selection-start-column="25" selection-end-line="208" selection-end-column="25" />
+            <state relative-caret-position="180">
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+              <folding>
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/michaelcane/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Commands.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/michaelcane/Commands.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -170,12 +146,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/io/michaelcane/UserSpec.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/michaelcane/Mode.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/michaelcane/CalculatorSpec.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/michaelcane/List.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/michaelcane/Command.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/michaelcane/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/michaelcane/Display.java" />
-        <option value="$PROJECT_DIR$/src/main/java/io/michaelcane/User.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/io/michaelcane/Calculator.java" />
-        <option value="$PROJECT_DIR$/src/test/java/io/michaelcane/CalculatorSpec.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/michaelcane/Commands.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/michaelcane/User.java" />
       </list>
     </option>
   </component>
@@ -197,9 +178,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="24" />
-    <option name="width" value="1920" />
-    <option name="height" value="990" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="710" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -226,9 +207,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -323,6 +303,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -334,35 +315,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Calculator/src/main/java/io/michaelcane/Calculator.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../GuessingGame/src/main/java/io/michaelcane/Game.java" />
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorSpec.test$inverseLogarithm">
-    <configuration default="false" name="CalculatorSpec.test$inverseCosin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="io.michaelcane.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Calculator" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="io.michaelcane" />
-      <option name="MAIN_CLASS_NAME" value="io.michaelcane.CalculatorSpec" />
-      <option name="METHOD_NAME" value="test$inverseCosin" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.CalculatorSpec">
     <configuration default="false" name="CalculatorSpec" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -454,6 +409,32 @@
       <option name="PACKAGE_NAME" value="io.michaelcane" />
       <option name="MAIN_CLASS_NAME" value="io.michaelcane.CalculatorSpec" />
       <option name="METHOD_NAME" value="test$inverseLogarithm" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="CalculatorSpec.test$divide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="io.michaelcane.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Calculator" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="io.michaelcane" />
+      <option name="MAIN_CLASS_NAME" value="io.michaelcane.CalculatorSpec" />
+      <option name="METHOD_NAME" value="test$divide" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -681,6 +662,7 @@
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
@@ -846,6 +828,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -862,24 +850,27 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$inverseCosin" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorSpec" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$factorial" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$inverseLog" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$inverseLogarithm" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorSpec" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$factorial" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$inverseLog" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$inverseLogarithm" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$divide" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$inverseLogarithm" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$inverseLog" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$factorial" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatorSpec" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$inverseCosin" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorSpec" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$divide" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$inverseLogarithm" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$inverseLog" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.CalculatorSpec.test$factorial" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -888,81 +879,93 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1462023050898</updated>
-      <workItem from="1462023054200" duration="16148000" />
+      <workItem from="1462023054200" duration="28591000" />
+      <workItem from="1462059139750" duration="45000" />
+      <workItem from="1462066387991" duration="25153000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculatorSpec - 2016.04.30 at 14h 17m 59s.xml">
+    <history-entry file="CalculatorSpec - 2016.04.30 at 22h 00m 14s.xml">
       <configuration name="CalculatorSpec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorSpec_test$factorial - 2016.04.30 at 14h 26m 13s.xml">
-      <configuration name="CalculatorSpec.test$factorial" configurationId="JUnit" />
+    <history-entry file="CalculatorSpec - 2016.04.30 at 22h 00m 50s.xml">
+      <configuration name="CalculatorSpec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorSpec_test$factorial - 2016.04.30 at 14h 55m 29s.xml">
-      <configuration name="CalculatorSpec.test$factorial" configurationId="JUnit" />
+    <history-entry file="CalculatorSpec - 2016.04.30 at 22h 06m 00s.xml">
+      <configuration name="CalculatorSpec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorSpec_test$inverseCosin - 2016.04.30 at 13h 53m 25s.xml">
-      <configuration name="CalculatorSpec.test$inverseCosin" configurationId="JUnit" />
+    <history-entry file="CalculatorSpec - 2016.04.30 at 22h 07m 19s.xml">
+      <configuration name="CalculatorSpec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorSpec_test$inverseLog - 2016.04.30 at 15h 12m 29s.xml">
-      <configuration name="CalculatorSpec.test$inverseLog" configurationId="JUnit" />
+    <history-entry file="CalculatorSpec - 2016.04.30 at 22h 13m 10s.xml">
+      <configuration name="CalculatorSpec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorSpec_test$inverseLog - 2016.04.30 at 15h 12m 54s.xml">
-      <configuration name="CalculatorSpec.test$inverseLog" configurationId="JUnit" />
+    <history-entry file="CalculatorSpec - 2016.04.30 at 22h 16m 48s.xml">
+      <configuration name="CalculatorSpec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorSpec_test$inverseLogarithm - 2016.04.30 at 15h 22m 54s.xml">
-      <configuration name="CalculatorSpec.test$inverseLogarithm" configurationId="JUnit" />
+    <history-entry file="CalculatorSpec - 2016.04.30 at 22h 18m 42s.xml">
+      <configuration name="CalculatorSpec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorSpec_test$inverseLogarithm - 2016.04.30 at 15h 26m 35s.xml">
-      <configuration name="CalculatorSpec.test$inverseLogarithm" configurationId="JUnit" />
+    <history-entry file="CalculatorSpec - 2016.04.30 at 23h 18m 06s.xml">
+      <configuration name="CalculatorSpec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorSpec_test$inverseLogarithm - 2016.04.30 at 15h 26m 49s.xml">
-      <configuration name="CalculatorSpec.test$inverseLogarithm" configurationId="JUnit" />
+    <history-entry file="CalculatorSpec - 2016.04.30 at 23h 18m 39s.xml">
+      <configuration name="CalculatorSpec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorSpec_test$naturalLogarithm - 2016.04.30 at 13h 48m 38s.xml">
-      <configuration name="CalculatorSpec.test$naturalLogarithm" configurationId="JUnit" />
+    <history-entry file="CalculatorSpec - 2016.04.30 at 23h 19m 03s.xml">
+      <configuration name="CalculatorSpec" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16148000" />
+    <option name="totallyTimeSpent" value="53789000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1920" height="990" extended-state="1" />
+    <frame x="0" y="23" width="1280" height="710" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.122395836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32761312" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32761312" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2015625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995657" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39937598" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -970,81 +973,135 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../../Calculator/calculator.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../Calculator/src/main/java/io/michaelcane/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/michaelcane/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/michaelcane/Display.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/michaelcane/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../GuessingGame/src/main/java/io/michaelcane/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="810">
+          <caret line="158" column="0" selection-start-line="158" selection-start-column="0" selection-end-line="158" selection-end-column="0" />
           <folding>
-            <element signature="e#312#313#0" expanded="false" />
-            <element signature="e#342#343#0" expanded="false" />
-            <element signature="e#374#375#0" expanded="false" />
-            <element signature="e#405#406#0" expanded="false" />
-            <element signature="e#435#436#0" expanded="false" />
-            <element signature="e#464#465#0" expanded="false" />
-            <element signature="e#505#506#0" expanded="false" />
-            <element signature="e#541#542#0" expanded="false" />
-            <element signature="e#586#587#0" expanded="false" />
-            <element signature="e#626#627#0" expanded="false" />
-            <element signature="e#669#670#0" expanded="false" />
-            <element signature="e#707#708#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../GuessingGame/src/main/java/io/michaelcane/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#101#102#0" expanded="false" />
-            <element signature="e#129#130#0" expanded="false" />
-            <element signature="e#168#169#0" expanded="false" />
-            <element signature="e#202#203#0" expanded="false" />
-            <element signature="e#235#236#0" expanded="false" />
-            <element signature="e#263#264#0" expanded="false" />
-            <element signature="e#306#307#0" expanded="false" />
-            <element signature="e#340#341#0" expanded="false" />
+            <element signature="method#sum#0;class#Calculator#0" expanded="false" />
+            <element signature="method#subtract#0;class#Calculator#0" expanded="false" />
+            <element signature="method#divide#0;class#Calculator#0" expanded="false" />
+            <element signature="method#multiply#0;class#Calculator#0" expanded="false" />
+            <element signature="method#square#0;class#Calculator#0" expanded="false" />
+            <element signature="method#squareRoot#0;class#Calculator#0" expanded="false" />
+            <element signature="method#variableExponentiation#0;class#Calculator#0" expanded="false" />
+            <element signature="method#invertPositiveAndNegative#0;class#Calculator#0" expanded="false" />
+            <element signature="method#sine#0;class#Calculator#0" expanded="false" />
+            <element signature="method#cosine#0;class#Calculator#0" expanded="false" />
+            <element signature="method#tangent#0;class#Calculator#0" expanded="false" />
+            <element signature="method#inverseSine#0;class#Calculator#0" expanded="false" />
+            <element signature="method#inverseCosine#0;class#Calculator#0" expanded="false" />
+            <element signature="method#inverseTangent#0;class#Calculator#0" expanded="false" />
+            <element signature="method#logarithm#0;class#Calculator#0" expanded="false" />
+            <element signature="method#naturalLogarithm#0;class#Calculator#0" expanded="false" />
+            <element signature="method#factorial#0;class#Calculator#0" expanded="false" />
+            <element signature="method#inverseNaturalLog#0;class#Calculator#0" expanded="false" />
+            <element signature="method#inverseLogarithm#0;class#Calculator#0" expanded="false" />
+            <element signature="method#displayError#0;class#Calculator#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/michaelcane/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="285">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/michaelcane/Display.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/michaelcane/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/michaelcane/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="158" column="0" selection-start-line="158" selection-start-column="0" selection-end-line="158" selection-end-column="0" />
+          <folding>
+            <element signature="method#sum#0;class#Calculator#0" expanded="false" />
+            <element signature="method#subtract#0;class#Calculator#0" expanded="false" />
+            <element signature="method#divide#0;class#Calculator#0" expanded="false" />
+            <element signature="method#multiply#0;class#Calculator#0" expanded="false" />
+            <element signature="method#square#0;class#Calculator#0" expanded="false" />
+            <element signature="method#squareRoot#0;class#Calculator#0" expanded="false" />
+            <element signature="method#variableExponentiation#0;class#Calculator#0" expanded="false" />
+            <element signature="method#invertPositiveAndNegative#0;class#Calculator#0" expanded="false" />
+            <element signature="method#sine#0;class#Calculator#0" expanded="false" />
+            <element signature="method#cosine#0;class#Calculator#0" expanded="false" />
+            <element signature="method#tangent#0;class#Calculator#0" expanded="false" />
+            <element signature="method#inverseSine#0;class#Calculator#0" expanded="false" />
+            <element signature="method#inverseCosine#0;class#Calculator#0" expanded="false" />
+            <element signature="method#inverseTangent#0;class#Calculator#0" expanded="false" />
+            <element signature="method#logarithm#0;class#Calculator#0" expanded="false" />
+            <element signature="method#naturalLogarithm#0;class#Calculator#0" expanded="false" />
+            <element signature="method#factorial#0;class#Calculator#0" expanded="false" />
+            <element signature="method#inverseNaturalLog#0;class#Calculator#0" expanded="false" />
+            <element signature="method#inverseLogarithm#0;class#Calculator#0" expanded="false" />
+            <element signature="method#displayError#0;class#Calculator#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/michaelcane/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Calculator/calculator.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1052,9 +1109,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1066,73 +1120,170 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/michaelcane/Mode.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/michaelcane/CalculatorSpec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <folding>
+            <element signature="method#test$sum#0;class#CalculatorSpec#0" expanded="false" />
+            <element signature="method#test$subract#0;class#CalculatorSpec#0" expanded="false" />
+            <element signature="method#test$divide#0;class#CalculatorSpec#0" expanded="false" />
+            <element signature="method#test$multiply#0;class#CalculatorSpec#0" expanded="false" />
+            <element signature="method#test$square#0;class#CalculatorSpec#0" expanded="false" />
+            <element signature="method#test$squareRoot#0;class#CalculatorSpec#0" expanded="false" />
+            <element signature="method#test$variableExponentiation#0;class#CalculatorSpec#0" expanded="false" />
+            <element signature="method#test$invertPositiveAndNegative#0;class#CalculatorSpec#0" expanded="false" />
+            <element signature="method#test$sin#0;class#CalculatorSpec#0" expanded="false" />
+            <element signature="method#test$cosin#0;class#CalculatorSpec#0" expanded="false" />
+            <element signature="method#test$tangent#0;class#CalculatorSpec#0" expanded="false" />
+            <element signature="method#test$inverseSine#0;class#CalculatorSpec#0" expanded="false" />
+            <element signature="method#test$inverseCosin#0;class#CalculatorSpec#0" expanded="false" />
+            <element signature="method#test$inverseTangent#0;class#CalculatorSpec#0" expanded="false" />
+            <element signature="method#test$logarithm#0;class#CalculatorSpec#0" expanded="false" />
+            <element signature="method#test$naturalLogarithm#0;class#CalculatorSpec#0" expanded="false" />
+            <element signature="method#test$factorial#0;class#CalculatorSpec#0" expanded="false" />
+            <element signature="method#test$inverseNaturalLog#0;class#CalculatorSpec#0" expanded="false" />
+            <element signature="method#test$inverseLogarithm#0;class#CalculatorSpec#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/michaelcane/UserSpec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../../../Calculator/src/main/java/io/michaelcane/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="e#95#96#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#95#96#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Calculator/src/main/java/io/michaelcane/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../GuessingGame/src/main/java/io/michaelcane/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/michaelcane/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../GuessingGame/src/main/java/io/michaelcane/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../GuessingGame/src/main/java/io/michaelcane/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;method#startGame#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#counterCheck#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#counterIncrement#0;class#Game#0" expanded="false" />
+            <element signature="method#counterIncrement#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#checkerLow#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#checkerHigh#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#checkerEqual#0;class#Game#0" expanded="false" />
+            <element signature="docComment;method#statement#0;class#Game#0" expanded="false" />
+            <element signature="method#statement#0;class#Game#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/michaelcane/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        <state relative-caret-position="358">
+          <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
           <folding>
-            <element signature="e#106#107#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#676#677#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-            <element signature="e#820#821#0" expanded="true" />
-            <element signature="e#861#862#0" expanded="true" />
-            <element signature="e#900#901#0" expanded="true" />
-            <element signature="e#943#944#0" expanded="true" />
-            <element signature="e#982#983#0" expanded="true" />
-            <element signature="e#1026#1027#0" expanded="true" />
-            <element signature="e#1065#1066#0" expanded="true" />
-            <element signature="e#1113#1114#0" expanded="true" />
-            <element signature="e#1153#1154#0" expanded="true" />
-            <element signature="e#1203#1204#0" expanded="true" />
-            <element signature="e#1243#1244#0" expanded="true" />
-            <element signature="e#1294#1295#0" expanded="true" />
-            <element signature="e#1334#1335#0" expanded="true" />
-            <element signature="e#1380#1381#0" expanded="true" />
-            <element signature="e#1421#1422#0" expanded="true" />
-            <element signature="e#1474#1475#0" expanded="true" />
-            <element signature="e#1513#1514#0" expanded="true" />
-            <element signature="e#1724#1725#0" expanded="true" />
-            <element signature="e#1783#1784#0" expanded="true" />
-            <element signature="e#1836#1837#0" expanded="true" />
-            <element signature="e#1891#1892#0" expanded="true" />
+            <element signature="method#sum#0;class#Calculator#0" expanded="false" />
+            <element signature="method#subtract#0;class#Calculator#0" expanded="false" />
+            <element signature="method#divide#0;class#Calculator#0" expanded="false" />
+            <element signature="method#multiply#0;class#Calculator#0" expanded="false" />
+            <element signature="method#square#0;class#Calculator#0" expanded="false" />
+            <element signature="method#squareRoot#0;class#Calculator#0" expanded="false" />
+            <element signature="method#variableExponentiation#0;class#Calculator#0" expanded="false" />
+            <element signature="method#invertPositiveAndNegative#0;class#Calculator#0" expanded="false" />
+            <element signature="method#sine#0;class#Calculator#0" expanded="false" />
+            <element signature="method#cosine#0;class#Calculator#0" expanded="false" />
+            <element signature="method#tangent#0;class#Calculator#0" expanded="false" />
+            <element signature="method#inverseSine#0;class#Calculator#0" expanded="false" />
+            <element signature="method#inverseCosine#0;class#Calculator#0" expanded="false" />
+            <element signature="method#inverseTangent#0;class#Calculator#0" expanded="false" />
+            <element signature="method#logarithm#0;class#Calculator#0" expanded="false" />
+            <element signature="method#naturalLogarithm#0;class#Calculator#0" expanded="false" />
+            <element signature="method#factorial#0;class#Calculator#0" expanded="false" />
+            <element signature="method#inverseNaturalLog#0;class#Calculator#0" expanded="false" />
+            <element signature="method#inverseLogarithm#0;class#Calculator#0" expanded="false" />
+            <element signature="method#displayError#0;class#Calculator#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/io/michaelcane/CalculatorSpec.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/michaelcane/Commands.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="208" column="25" selection-start-line="208" selection-start-column="25" selection-end-line="208" selection-end-column="25" />
+        <state relative-caret-position="180">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/michaelcane/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/michaelcane/Display.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
           </folding>
         </state>
       </provider>
