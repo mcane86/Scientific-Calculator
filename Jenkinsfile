@@ -3,9 +3,9 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        sh '''echo "build"
-cd Calculator/'''
-        sh 'mvn clean install'
+        sh 'echo "build"'
+        sh '''cd Calculator/
+mvn clean install'''
       }
     }
 
