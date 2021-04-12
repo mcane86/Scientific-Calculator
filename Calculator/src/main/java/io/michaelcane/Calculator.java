@@ -123,6 +123,13 @@ public class Calculator {
         return Math.log10(value1);
     }
 
+    public static double cube(double value1){
+        /**
+         * This will calcualte the cube value of a number       
+         */
+         return Math.pow(value1, 3);
+    }
+
     public static double naturalLogarithm(double value1) {
         /**
          * This will evaluate to the invers of the Log.
