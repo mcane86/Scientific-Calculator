@@ -1,0 +1,61 @@
+-------------------------------------------------------------------------------
+Test set: io.michaelcane.CalculatorSpecTest
+-------------------------------------------------------------------------------
+Tests run: 19, Failures: 0, Errors: 19, Skipped: 0, Time elapsed: 0.182 s <<< FAILURE! - in io.michaelcane.CalculatorSpecTest
+test$inverseTangent(io.michaelcane.CalculatorSpecTest)  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.StackOverflowError
+
+test$divide(io.michaelcane.CalculatorSpecTest)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.StackOverflowError
+
+test$multiply(io.michaelcane.CalculatorSpecTest)  Time elapsed: 0.01 s  <<< ERROR!
+java.lang.StackOverflowError
+
+test$sin(io.michaelcane.CalculatorSpecTest)  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.StackOverflowError
+
+test$sum(io.michaelcane.CalculatorSpecTest)  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.StackOverflowError
+
+test$inverseCosin(io.michaelcane.CalculatorSpecTest)  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.StackOverflowError
+
+test$square(io.michaelcane.CalculatorSpecTest)  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.StackOverflowError
+
+test$invertPositiveAndNegative(io.michaelcane.CalculatorSpecTest)  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.StackOverflowError
+
+test$squareRoot(io.michaelcane.CalculatorSpecTest)  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.StackOverflowError
+
+test$inverseLogarithm(io.michaelcane.CalculatorSpecTest)  Time elapsed: 0.007 s  <<< ERROR!
+java.lang.StackOverflowError
+
+test$inverseSine(io.michaelcane.CalculatorSpecTest)  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.StackOverflowError
+
+test$cosin(io.michaelcane.CalculatorSpecTest)  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.StackOverflowError
+
+test$naturalLogarithm(io.michaelcane.CalculatorSpecTest)  Time elapsed: 0.007 s  <<< ERROR!
+java.lang.StackOverflowError
+
+test$logarithm(io.michaelcane.CalculatorSpecTest)  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.StackOverflowError
+
+test$subract(io.michaelcane.CalculatorSpecTest)  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.StackOverflowError
+
+test$variableExponentiation(io.michaelcane.CalculatorSpecTest)  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.StackOverflowError
+
+test$tangent(io.michaelcane.CalculatorSpecTest)  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.StackOverflowError
+
+test$inverseNaturalLog(io.michaelcane.CalculatorSpecTest)  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.StackOverflowError
+
+test$factorial(io.michaelcane.CalculatorSpecTest)  Time elapsed: 0.007 s  <<< ERROR!
+java.lang.StackOverflowError
+

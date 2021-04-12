@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="io.michaelcane.CalculatorSpecTest" time="0.182" tests="19" errors="19" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="15"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/yuzonggao/Desktop/workspace/cmu/Scientific-Calculator/Calculator/target/test-classes:/Users/yuzonggao/Desktop/workspace/cmu/Scientific-Calculator/Calculator/target/classes:/Users/yuzonggao/.m2/repository/junit/junit/4.12/junit-4.12.jar:/Users/yuzonggao/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="java.vm.specification.version" value="15"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="/usr/local/Cellar/openjdk/15.0.2/libexec/openjdk.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/yuzonggao/Desktop/workspace/cmu/Scientific-Calculator/Calculator/target/surefire/surefirebooter16769834345355698883.jar /Users/yuzonggao/Desktop/workspace/cmu/Scientific-Calculator/Calculator/target/surefire 2021-04-12T13-23-48_737-jvmRun1 surefire11221319826765822685tmp surefire_02896807237221418084tmp"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/yuzonggao/Desktop/workspace/cmu/Scientific-Calculator/Calculator/target/test-classes:/Users/yuzonggao/Desktop/workspace/cmu/Scientific-Calculator/Calculator/target/classes:/Users/yuzonggao/.m2/repository/junit/junit/4.12/junit-4.12.jar:/Users/yuzonggao/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/yuzonggao"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-01-19"/>
+    <property name="java.home" value="/usr/local/Cellar/openjdk/15.0.2/libexec/openjdk.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/yuzonggao/Desktop/workspace/cmu/Scientific-Calculator/Calculator"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="surefire.real.class.path" value="/Users/yuzonggao/Desktop/workspace/cmu/Scientific-Calculator/Calculator/target/surefire/surefirebooter16769834345355698883.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.runtime.version" value="15.0.2+7"/>
+    <property name="user.name" value="yuzonggao"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="10.15.7"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/Users/yuzonggao/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/var/folders/5r/rxtdx5zn1yn3ywcq43gw1h740000gn/T/"/>
+    <property name="java.version" value="15.0.2"/>
+    <property name="user.dir" value="/Users/yuzonggao/Desktop/workspace/cmu/Scientific-Calculator/Calculator"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.library.path" value="/Users/yuzonggao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="N/A"/>
+    <property name="java.vm.version" value="15.0.2+7"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.class.version" value="59.0"/>
+  </properties>
+  <testcase name="test$inverseTangent" classname="io.michaelcane.CalculatorSpecTest" time="0.008">
+    <error type="java.lang.StackOverflowError">java.lang.StackOverflowError
+</error>
+  </testcase>
+  <testcase name="test$divide" classname="io.michaelcane.CalculatorSpecTest" time="0.001">
+    <error type="java.lang.StackOverflowError">java.lang.StackOverflowError
+</error>
+  </testcase>
+  <testcase name="test$multiply" classname="io.michaelcane.CalculatorSpecTest" time="0.01">
+    <error type="java.lang.StackOverflowError">java.lang.StackOverflowError
+</error>
+  </testcase>
+  <testcase name="test$sin" classname="io.michaelcane.CalculatorSpecTest" time="0.008">
+    <error type="java.lang.StackOverflowError">java.lang.StackOverflowError
+</error>
+  </testcase>
+  <testcase name="test$sum" classname="io.michaelcane.CalculatorSpecTest" time="0.008">
+    <error type="java.lang.StackOverflowError">java.lang.StackOverflowError
+</error>
+  </testcase>
+  <testcase name="test$inverseCosin" classname="io.michaelcane.CalculatorSpecTest" time="0.008">
+    <error type="java.lang.StackOverflowError">java.lang.StackOverflowError
+</error>
+  </testcase>
+  <testcase name="test$square" classname="io.michaelcane.CalculatorSpecTest" time="0.008">
+    <error type="java.lang.StackOverflowError">java.lang.StackOverflowError
+</error>
+  </testcase>
+  <testcase name="test$invertPositiveAndNegative" classname="io.michaelcane.CalculatorSpecTest" time="0.008">
+    <error type="java.lang.StackOverflowError">java.lang.StackOverflowError
+</error>
+  </testcase>
+  <testcase name="test$squareRoot" classname="io.michaelcane.CalculatorSpecTest" time="0.008">
+    <error type="java.lang.StackOverflowError">java.lang.StackOverflowError
+</error>
+  </testcase>
+  <testcase name="test$inverseLogarithm" classname="io.michaelcane.CalculatorSpecTest" time="0.007">
+    <error type="java.lang.StackOverflowError">java.lang.StackOverflowError
+</error>
+  </testcase>
+  <testcase name="test$inverseSine" classname="io.michaelcane.CalculatorSpecTest" time="0.008">
+    <error type="java.lang.StackOverflowError">java.lang.StackOverflowError
+</error>
+  </testcase>
+  <testcase name="test$cosin" classname="io.michaelcane.CalculatorSpecTest" time="0.008">
+    <error type="java.lang.StackOverflowError">java.lang.StackOverflowError
+</error>
+  </testcase>
+  <testcase name="test$naturalLogarithm" classname="io.michaelcane.CalculatorSpecTest" time="0.007">
+    <error type="java.lang.StackOverflowError">java.lang.StackOverflowError
+</error>
+  </testcase>
+  <testcase name="test$logarithm" classname="io.michaelcane.CalculatorSpecTest" time="0.008">
+    <error type="java.lang.StackOverflowError">java.lang.StackOverflowError
+</error>
+  </testcase>
+  <testcase name="test$subract" classname="io.michaelcane.CalculatorSpecTest" time="0.008">
+    <error type="java.lang.StackOverflowError">java.lang.StackOverflowError
+</error>
+  </testcase>
+  <testcase name="test$variableExponentiation" classname="io.michaelcane.CalculatorSpecTest" time="0.008">
+    <error type="java.lang.StackOverflowError">java.lang.StackOverflowError
+</error>
+  </testcase>
+  <testcase name="test$tangent" classname="io.michaelcane.CalculatorSpecTest" time="0.008">
+    <error type="java.lang.StackOverflowError">java.lang.StackOverflowError
+</error>
+  </testcase>
+  <testcase name="test$inverseNaturalLog" classname="io.michaelcane.CalculatorSpecTest" time="0.008">
+    <error type="java.lang.StackOverflowError">java.lang.StackOverflowError
+</error>
+  </testcase>
+  <testcase name="test$factorial" classname="io.michaelcane.CalculatorSpecTest" time="0.007">
+    <error type="java.lang.StackOverflowError">java.lang.StackOverflowError
+</error>
+  </testcase>
+</testsuite>
