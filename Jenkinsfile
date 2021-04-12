@@ -9,11 +9,18 @@ mvn clean install'''
       }
     }
 
-    stage('Test') {
+    stage('TestStatic') {
       steps {
         sh 'echo "testing"'
         sh '''cd Calculator/
 mvn sonar:sonar -Dsonar.host.url=http://localhost:9000 -Dlicense.skip=true -Dsonar.login="1858584c627cda84cdad8309a89701e7cde7f809"'''
+      }
+    }
+
+    stage('UnitTest') {
+      steps {
+        sh '''cd Calculator/
+mvn test -Dtest=CalculatorSpec.java'''
       }
     }
 
