@@ -4,7 +4,7 @@ pipeline {
     stage('Build') {
       steps {
         sh '''echo "build"
-cd Calculator'''
+cd Calculator/'''
         sh 'mvn clean install'
       }
     }
