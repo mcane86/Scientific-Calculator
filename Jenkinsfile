@@ -4,8 +4,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Building..'
-                    sh 'cd Calculator'
-                    sh 'mvn clean package'
+                    sh 'cd Calculator && mvn clean package'
 
             }
         }
@@ -16,9 +15,8 @@ pipeline {
                 { 
         // If you have configured more than one global server connection, you can specify its name
 //      sh "${scannerHome}/bin/sonar-scanner"  
-                        sh 'cd Calculator'
 
-                        sh "mvn sonar:sonar"
+                        sh "cd Calculator && mvn sonar:sonar"
                 }
             }
         }
