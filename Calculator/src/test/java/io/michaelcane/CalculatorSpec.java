@@ -220,8 +220,8 @@ public class CalculatorSpec {
         /**
          * This will give the inverse for logarithms.
          */
-        double expectedValue = 16;
-        double actualValue = calculator.addAndMultiply(2,6,2);
+        double expectedValue = 18;
+        double actualValue = calculator.addAndMultiply(2,6,3);
         assertEquals("This should evaluate to 16", expectedValue, actualValue, delta);
     }
 
