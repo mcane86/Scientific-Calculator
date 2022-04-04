@@ -215,6 +215,15 @@ public class CalculatorSpec {
         assertEquals("This should evaluate to 1000000000", expectedValue, actualValue, delta);
     }
 
+    @Test
+    public void test$addAndMultiply() {
+        /**
+         * This will give the inverse for logarithms.
+         */
+        double expectedValue = 18;
+        double actualValue = calculator.addAndMultiply(2,6,3);
+        assertEquals("This should evaluate to 16", expectedValue, actualValue, delta);
+    }
 
 
 
