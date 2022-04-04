@@ -4,7 +4,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Building..'
-                    sh 'cd Calculator && mvn clean test'
+                    sh 'cd Calculator && mvn  test'
 
             }
         }
@@ -20,14 +20,6 @@ pipeline {
             }
         }
         
-    }
-
-    post {
-        always {
-            junit testResults: '**/target/surefire-reports/TEST-*.xml'
-
-            recordIssues enabledForFailure: true, tools: [mavenConsole(), java(), javaDoc()]
-        }
     }
 
 }
