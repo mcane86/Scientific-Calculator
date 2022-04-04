@@ -1,5 +1,6 @@
 # Project 1: Calculator
 
+Basic calculator application
 
 ## Description
 
