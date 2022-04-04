@@ -4,7 +4,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Building..'
-                    sh 'cd Calculator && mvn clean package'
+                    sh 'cd Calculator && mvn clean test'
 
             }
         }
